@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: chqla15
 github_username:  chqlb
+timezone:  Asia/Shanghai
 
 # Build settings
 markdown: kramdown
