@@ -8,6 +8,13 @@ author: chqlb
 
 OnePush is message pushing service in Yahoo for many important Yahoo service, like Yahoo Mail, Yahoo Finance and etc.
 
+### Major Component
+**API / Routing**: 20 servers / colo, 4000 RPS / server  (8 core CUP, 16G Memory / server)
+
+**Connection Server**: 100 servers / colo, 200k connection / server
+
+**Deliver**: 100 servers / colo for HBase
+
 ### Client implementation
 The notifications are delivered to iOS devices through **APNS** (Apple Push Notification Service).
 
