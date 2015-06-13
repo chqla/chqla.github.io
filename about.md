@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+陈海强, 男, 软件开发工程师。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+2012 毕业于中国科学技术大学自动化模式识别专业，硕士研究生。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+曾就职于：雅虎北京研发中心、大众点评网等。
+
+联系方式：chqlb@yahoo.com, [新浪微博](http://weibo.com/chqla), [linkedin](https://cn.linkedin.com/in/haiqiangchen)
