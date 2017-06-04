@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	《从0到1》的学习笔记
+title: 	从0到1 -- Peter Thiel
 date: 	'2017-05-07 13:30:00'
 categories: general
 author: chqlb
