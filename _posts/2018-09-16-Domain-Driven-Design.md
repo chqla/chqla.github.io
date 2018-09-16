@@ -60,7 +60,7 @@ DDD是一种基于模型驱动开发的软件开发思想，强调领域模型�
 
 <center class="half">
     <img src="/assert/img/ddd-3.png" width="30%"><img src="/assert/img/ddd-4.png" width="30%"><img src="/assert/img/ddd-5.png" width="30%">
-</figure>
+</center>
 
 ### 主要流程
 ![主要流程](/assert/img/ddd-6.png)
