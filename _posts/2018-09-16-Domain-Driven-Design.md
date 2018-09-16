@@ -58,10 +58,8 @@ DDD是一种基于模型驱动开发的软件开发思想，强调领域模型�
 * Domain —— 业务领域层。表达业务概念、业务状态信息及业务规则，是业务软件的核心
 * Infrastructure —— 为其他层提供通用的技术能力，提供了层间通信；为领域层提供持久化机制。
 
-<figure class="third">
-    <img src="/assert/img/ddd-3.png" width="30%">
-    <img src="/assert/img/ddd-4.png" width="30%">
-    <img src="/assert/img/ddd-5.png" width="30%">
+<center class="half">
+    <img src="/assert/img/ddd-3.png" width="30%"><img src="/assert/img/ddd-4.png" width="30%"><img src="/assert/img/ddd-5.png" width="30%">
 </figure>
 
 ### 主要流程
